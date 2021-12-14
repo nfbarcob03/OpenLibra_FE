@@ -32,5 +32,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Repositorio: 
 https://github.com/nfbarcob03/OpenLibra_FE
 
-### Despliegue heroku aplicación
+### Despliegue heroku aplicación desde repo git
 https://opelibro-fe.herokuapp.com/
+
+### Despliegue heroku docker
+https://openlibra-fe-docker.herokuapp.com/
