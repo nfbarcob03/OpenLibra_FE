@@ -29,4 +29,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Ver todos los libros de la api https://openlibra.com/es/page/public-api filtrando por categoria "programación" (https://www.etnassoft.com/api/v1/get/?category=libros_programacion)
 - Formulario para crear libro sin conexión a backend. Trae los autores de una api de generación aleatoria de nombres (https://randommer.io/api/Name?nameType=fullname&quantity=20)
  
+### Repositorio: 
+https://github.com/nfbarcob03/OpenLibra_FE
 
+### Despliegue heroku aplicación
+https://opelibro-fe.herokuapp.com/
